@@ -1,0 +1,24 @@
+h3{
+    color: #ffffff;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 0.8em; /* smaller font size */
+  }
+  
+th, td {
+    border: 1px solid #ccc; /* thinner border */
+    padding: 20px;
+    text-align: left;
+    font-size: 0.8em; /* smaller font size */
+}
+  
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+td{
+    color: #ffffff;
+}
